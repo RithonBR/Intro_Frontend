@@ -13,12 +13,15 @@
 
 # CSS
 1. [Conceitos](/Css/1.Conceitos.md)
-2. 
+2. [Syntax]
+3. [Layout]
+4. [Tipos De Site]
+5. [Variaveis]
+6. [Boas Praticas]
 
 # JavaScript
 1. [Conceitos](/JavaScript/1.%20Conceitos.md)
-2. 
-
+2. [Syntax]
 
 
 ### Autor : Rithon (Forma de Estudar, Resumos da Documentação)
